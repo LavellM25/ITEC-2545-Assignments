@@ -100,7 +100,7 @@ public class Question_6_Clean_And_Graph_Array {
         // To solve solution, need to create a for loop to iterate through array to print * based # of element.
         for (int speed : speeds) { // Meaning for every item in sequence of speeds [] array built in previous method cleandata
             // print the # of corresponding stars
-            for (int j = 0; j < speed; j++) {
+            for (int stars = 0; stars < speed; stars++) {
                 System.out.print("*"); // This allows for * to be on one line per element, ex: 5 *****
             }
             // Move to the next line after printing stars for an element
