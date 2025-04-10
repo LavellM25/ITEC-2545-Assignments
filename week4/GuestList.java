@@ -21,7 +21,7 @@ import java.util.Random;
  * 8. Add validation to prevent crashes.
  */
 
-public class GuestListProgram {
+public class GuestList {
     public static void main(String[] args) {
         // Step 1: Create an empty list to store guest names
         ArrayList<String> guestList = new ArrayList<>();

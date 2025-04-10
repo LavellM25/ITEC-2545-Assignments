@@ -12,10 +12,6 @@ import java.util.Scanner;
 
  */
 
-
-
-import java.util.Scanner;
-
 /**
  * Finish the shout() method. It should convert a String to uppercase, and add "!!!" to the end.
  * So if the user enters "hello", the method will be called with "hello".
